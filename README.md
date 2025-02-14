@@ -3,7 +3,8 @@ Name: Khalifa Bukar Sidi
 Matric no: U24CYS2005
 Department: Cyber Security
 
-//How it works
+//HOW IT WORKS
+
 Introduction:
 Welcome to the Java Swing Calculator! This calculator is a graphical user interface(GUI)application that provides a simple and intuitive way to perform mathematical calculations. It is built using the Swing library in Java, which provides a flexible and powerful set of components for creating graphical user interfaces. The calculator has a sleek and modern design, with easy-to-use buttons for performing basic arithmetic operations, as well as advanced functions such as square roots, logarithms, and trigonometric calculations. Whether you are a student, a professional, or just someone who needs to perform quick calculations,this calculator is the perfect tool for you. So sit back, grab a cup of coffee, and start crunching numbers with the Java Swing Calculator!
 
